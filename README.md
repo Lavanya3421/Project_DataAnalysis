@@ -13,5 +13,3 @@ Insights in this project:-
      - Sales distribution across categories or regions.
      - Fulfillment method comparison.
      - Time-based trends (if `Date` was analyzed).
-
-Would you like me to perform specific analyses or interpret key findings further?
